@@ -1,0 +1,12 @@
+﻿body {
+}
+
+.label1 {
+  display: block;
+  float: left;
+  margin-top: 12px;
+  width: 160px;
+  color: #444;
+  font-size: 20px;
+  padding: 0 0;
+}

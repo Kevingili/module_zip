@@ -1,0 +1,5 @@
+E:\___Projets - Visual Studios\En cours\Asp.net\FichiersZip\2016.01.14 - FichierZip\BO\bin\Debug\BO.dll
+E:\___Projets - Visual Studios\En cours\Asp.net\FichiersZip\2016.01.14 - FichierZip\BO\bin\Debug\BO.pdb
+E:\___Projets - Visual Studios\En cours\Asp.net\FichiersZip\2016.01.14 - FichierZip\BO\obj\Debug\BO.csprojResolveAssemblyReference.cache
+E:\___Projets - Visual Studios\En cours\Asp.net\FichiersZip\2016.01.14 - FichierZip\BO\obj\Debug\BO.dll
+E:\___Projets - Visual Studios\En cours\Asp.net\FichiersZip\2016.01.14 - FichierZip\BO\obj\Debug\BO.pdb
